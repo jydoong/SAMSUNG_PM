@@ -1,4 +1,4 @@
-<img width="731" alt="스크린샷 2024-03-22 오후 3 50 46" src="https://github.com/jydoong/SAMSUNG_PM/assets/88875273/98fae358-324d-4b32-a1c4-8f7cd9a1f426"># 2023 상반기 삼성증권 디지털/IT 학회 프로그램
+# 2023 상반기 삼성증권 디지털/IT 학회 프로그램
 Data Analytics, 디지털 기술, 가상자산 T/F, 디지털 혁신 포함 최종 대상 수상
 
 ## 대회 개요
